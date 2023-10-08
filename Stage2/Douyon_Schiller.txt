@@ -1,2 +1,0 @@
-Stage 2.
-I develpped some ideas for data class diagram(UML design), and participated in all ms meetings with the team.
