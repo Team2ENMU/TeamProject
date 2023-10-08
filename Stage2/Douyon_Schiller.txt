@@ -1,0 +1,2 @@
+Stage 2.
+I developed some data class diagram, and participated in all ms meetings with the team.
