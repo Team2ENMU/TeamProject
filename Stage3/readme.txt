@@ -1,1 +1,3 @@
-Caleb Palmares is sole member of Team2
+-Download all files within the ProgramSourceFiles directory
+-Use 'javac Main.java' to compile
+-User 'java Main.java' to run program
